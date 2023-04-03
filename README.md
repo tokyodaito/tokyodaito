@@ -13,3 +13,4 @@
   <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="Resume Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=tokyodaito&style=flat-square&color=blue" alt=""/>
