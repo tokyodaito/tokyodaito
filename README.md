@@ -16,7 +16,6 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=tokyodaito&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
----
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
