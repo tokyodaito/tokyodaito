@@ -4,11 +4,6 @@
 <div id="badges" align="center">
   <a href="https://t.me/daito34">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <br>
-  <a href="https://krasnodar.hh.ru/resume/6d4bfe61ff0bdc05560039ed1f384a54717772">
-  <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="Resume Badge"/>
-  </a>
   <br>
 <img align="center" src="https://komarev.com/ghpvc/?username=tokyodaito&style=flat-square&color=blue" alt=""/>
 </div>
